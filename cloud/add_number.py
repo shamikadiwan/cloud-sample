@@ -1,6 +1,6 @@
 
 # Initialize a variable to store the sum
-  total = 0
+  total = 10
 
 # Loop to get 10 numbers from the user
   for i in range(10):
